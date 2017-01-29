@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - my-text-to-speech
-  name: text-to-speech-demo
+  name: nimagmaps-t2s
   command: npm start
   path: .
   memory: 512M
